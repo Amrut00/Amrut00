@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Student Project Management System](https://github.com/Amrut00/Student-Project-Management)
 
-- 🌱 I’m currently learning **Database**
+- 🌱 I’m currently learning **Full StacK Web Development**
 
 - 📫 How to reach me **pathaneamrut@gmail.com**
 
