@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrut Pathane</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-- 🔭 I’m currently working on [Student Project Management System](https://github.com/Amrut00/Student-Project-Management)
-
-- 🌱 I’m currently learning **Full StacK Web Development**
-
 - 📫 How to reach me : email - **pathaneamrut@gmail.com** , phone no - +91 8600947050
   
 <h3 align="left">Connect with me:</h3>
